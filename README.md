@@ -28,7 +28,7 @@ This dashboard was created to provide a user-friendly interface for diverse audi
 
 ### Data Source
 ---
-The data is collected from two datasets: one from the ESO National Data Portal and the other from the UK government website. The links to these datasets are provided below, and the data files are stored in the "Data Input" folder.
+The data is collected from two datasets: one from the ESO National Data Portal and the other from the UK government website. The links to these datasets are provided below, and the prepared data files are stored in the "Data Input" folder.
 
 [Historic GB Generation Mix](https://www.nationalgrideso.com/data-portal/historic-generation-mix/historic_gb_generation_mix)
 
