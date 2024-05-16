@@ -1,6 +1,6 @@
 # Dashboard Design
 
-### Tableau Dashboard
+### Electricity Analysis
 ---
 
 **Dashboard Overview:**
