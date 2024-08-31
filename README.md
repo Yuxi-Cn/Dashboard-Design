@@ -1,14 +1,14 @@
 # Dashboard Design
 
 ## Tableau Public
----
+
 | Project           | Tableau Public Link                                                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Bank Loan Analysis        | [Bank Loan Report](https://public.tableau.com/app/profile/yuxi.chen7353/viz/BankLoanReport-Dashboard/Summary)         |
 | Electricity Analysis        | [GB Electricity Generation & Carbon Intensity](https://public.tableau.com/app/profile/yuxi.chen7353/viz/GBElectricityGenerationCarbonIntensity/GBGenerationDashboard) |
 
 ## Bank Loan Analysis
----
+
 
 ### Dashboard Overview:
 This dashboard visualises data on bank loan report. The function board on the top displays: 
@@ -60,7 +60,7 @@ The dashboard consists of three pages: **Summary, Overview, and Details**.
 
 
 ## Electricity Analysis
----
+
 
 ### Dashboard Overview:
 
